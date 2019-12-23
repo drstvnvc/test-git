@@ -1,2 +1,3 @@
-// konektuj se na bazu podatak
+// konektuj se na bazu podataka
 // procitaj password iz passwords.txt fajla
+// select * from ...
